@@ -2,22 +2,38 @@
 {
     "id": 1,
     "title": "Psychology of Money",
-    "description": " book about Money"
+    "Author": "Morgan- Housel",
+    "Genre": "Self-help book",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fzombozone.com%2Fproduct%2Fthe-psychology-of-money-paperback%2F&psig=AOvVaw1uj6JdBneFBYHqk-pb6Efs&ust=1673787616045000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCCr_SOx_wCFQAAAAAdAAAAABAE",
+    "published": "2020",
+     "language": "English"
 },
 {
     "id": 2,
     "title": "The Girl on the Train",
-    "description": "Thirller book about a girl on the train"
+    "Author": "Paula hawkins",
+    "Genre": "Thriller",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Girl_on_the_Train_%2528novel%2529&psig=AOvVaw35HP9gQtjGPuZKAiY0ybs-&ust=1673787675044000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiN15CPx_wCFQAAAAAdAAAAABAE",
+    "published": "2015",
+     "language": "English"
 },
 {
-    "id": 1,
+    "id": 3,
     "title": "Atomic Habits",
-    "description": "A lifestyle book"
+    "Author": "James Clear",
+    "Genre": "Self-help book",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fatomic-habits-james-clear-23835783848.html&psig=AOvVaw15BZ_CpZw-0C5VqT7NGjwz&ust=1673787827263000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDOhdmPx_wCFQAAAAAdAAAAABAE",
+    "published": "2018",
+     "language": "English"
 },
 {
-    "id": 1,
-    "title": "Atomic Habits",
-    "description": "A lifestyle book"
+    "id": 4,
+    "title": "The Power of your Subconscious Mind",
+    "Author": "Joseph Murphy",
+    "Genre": "Self-help book",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scribblewhatever.com%2Fthe-power-of-your-subconscious-mind-summary%2F&psig=AOvVaw2QdxquNqxa-jDc37CF6zQq&ust=1673787463390000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiV6quOx_wCFQAAAAAdAAAAABAE",
+    "published": "1963",
+     "language": "English"
 }
 
 ]
